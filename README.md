@@ -6,12 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojgum" alt="manojgum" /></a> </p>
 
 - 🔭 I’m currently working on [SkinStore](https://github.com/shoaib-ahmed16/SkinStore-front_end)
+- 🔭 I’m currently pursuing **MERN stack course at Masai School**
 
 - 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [https://medium.com/@manojgum](https://medium.com/@manojgum)
 
-- 💬 Ask me about **MERN and DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript ,DSA and MERN**
 
 - 📫 How to reach me **manogum@gmail.com**
 
