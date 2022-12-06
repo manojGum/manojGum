@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojgum" alt="manojgum" /></a> </p>
 
 - 🔭 I’m currently working on [SkinStore](https://github.com/shoaib-ahmed16/SkinStore-front_end)
-- 🔭 I’m currently pursuing **MERN stack course at Masai School**
+- 🔭 I’m have completed my **MERN stack course at Masai School**
 
 - 🌱 I’m currently learning **React.js**
 
