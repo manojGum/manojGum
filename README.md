@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojgum" alt="manojgum" /></a> </p>
 
 - 🔭 I’m currently working in Indus Net Technologies Pvt Ltd Kolkata
-- 🌱 I’m currently working in **Nodejs and reactjs**
+- 🌱 I’m currently working in **Nodejs,reactjs and strapi **
 - 🔭 I’m have completed my **MERN stack course at Masai School**
 
 - 📝 I regularly write articles on [https://medium.com/@manojgum](https://medium.com/@manojgum)
