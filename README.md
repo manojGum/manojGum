@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **manogum@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TUT0JpKNzVbpCvNn8wFnMhyYV7gTBUvbBEhbzCgH5TA/edit?usp=sharing](https://docs.google.com/document/d/1TUT0JpKNzVbpCvNn8wFnMhyYV7gTBUvbBEhbzCgH5TA/edit?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1yPC88XUyESJ_BVGm0XzG_dcjfAQDV5WK/view?usp=sharing
+- 📄 Resume  https://drive.google.com/file/d/1yPC88XUyESJ_BVGm0XzG_dcjfAQDV5WK/view?usp=sharing
 - 📫 Portfolio  https://manojkumarpo.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
